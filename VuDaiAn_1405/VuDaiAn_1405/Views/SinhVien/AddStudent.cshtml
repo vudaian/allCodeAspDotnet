@@ -1,0 +1,32 @@
+﻿@model VuDaiAn_1405.Models.SinhVien
+@{
+    ViewData["Title"] = "AddStudent";
+}
+
+<div>
+    <form action="/SinhVien/Save" method="post">    
+        <div class="form-group">
+            <label>Mã sinh viên</label>
+            <input type="text" name="ID" value="" class="form-control" />
+        </div>  
+        <div class="form-group">
+            <label>Tên sinh viên</label>
+            <input type="text" name="Name" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Lớp</label>
+            <input type="text" name="ClassName" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Địa chỉ</label>
+            <input type="text" name="Address" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Số điện thoại</label>
+            <input type="text" name="NumberPhone" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="add" value="Thêm" class="btn btn-success" />
+        </div>
+    </form>
+</div>

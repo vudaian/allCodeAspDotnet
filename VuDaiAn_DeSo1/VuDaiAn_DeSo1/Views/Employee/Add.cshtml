@@ -1,0 +1,33 @@
+﻿@model VuDaiAn_DeSo1.Models.Employee
+@{
+    ViewData["Title"] = "Add";
+}
+
+<div>
+    <form action="/Employee/Save" method="post">
+        <h3>Thêm mới</h3>
+        <div class="form-group">
+            <label>Employee ID</label>
+            <input type="text" name="EmployeId" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>First Name</label>
+            <input type="text" name="FirttName" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" name="LastName" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>BirthDay</label>
+            <input type="text" name="BirthDay" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Gender</label>
+            <input type="text" name="Gender" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="add" value="Thêm" class="btn btn-success"/>
+        </div>
+    </form>
+</div>

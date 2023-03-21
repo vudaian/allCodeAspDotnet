@@ -1,0 +1,16 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\ref\HocCollection.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\bin\Debug\net5.0\HocCollection.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.csproj.AssemblyReference.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\ref\HocCollection.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\HocCollection\obj\Debug\net5.0\HocCollection.genruntimeconfig.cache

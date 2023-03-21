@@ -1,0 +1,13 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\bin\Debug\netcoreapp3.1\PhuongThucMoRong.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\PhuongThucMoRong\obj\Debug\netcoreapp3.1\PhuongThucMoRong.genruntimeconfig.cache

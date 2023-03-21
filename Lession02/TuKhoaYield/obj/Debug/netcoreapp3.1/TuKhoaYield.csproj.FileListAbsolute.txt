@@ -1,0 +1,13 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\bin\Debug\netcoreapp3.1\TuKhoaYield.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\TuKhoaYield\obj\Debug\netcoreapp3.1\TuKhoaYield.genruntimeconfig.cache

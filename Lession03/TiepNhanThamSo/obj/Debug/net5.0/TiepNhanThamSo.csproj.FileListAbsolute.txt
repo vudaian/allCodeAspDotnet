@@ -1,0 +1,240 @@
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\appsettings.json
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.exe
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.deps.json
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.runtimeconfig.json
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.runtimeconfig.dev.json
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ref\TiepNhanThamSo.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.pdb
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.Views.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.Views.pdb
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.AssemblyReference.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.AssemblyInfoInputs.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.AssemblyInfo.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.CoreCompileInputs.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorAssemblyInfo.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorAssemblyInfo.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\staticwebassets\TiepNhanThamSo.StaticWebAssets.Manifest.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\staticwebassets\TiepNhanThamSo.StaticWebAssets.xml
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\scopedcss\bundle\TiepNhanThamSo.styles.css
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.TagHelpers.input.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.TagHelpers.output.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorCoreGenerate.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorTargetAssemblyInfo.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorTargetAssemblyInfo.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.Views.pdb
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.CopyComplete
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\ref\TiepNhanThamSo.dll
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.pdb
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.genruntimeconfig.cache
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Add.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Remove.cshtml.g.cs
+C:\Users\Vu Dai An\source\repos\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\appsettings.Development.json
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\appsettings.json
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.exe
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ref\TiepNhanThamSo.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.pdb
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.Views.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\TiepNhanThamSo.Views.pdb
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Humanizer.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.AssemblyReference.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorAssemblyInfo.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorAssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\staticwebassets\TiepNhanThamSo.StaticWebAssets.Manifest.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\staticwebassets\TiepNhanThamSo.StaticWebAssets.xml
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\scopedcss\bundle\TiepNhanThamSo.styles.css
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.TagHelpers.input.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.TagHelpers.output.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorCoreGenerate.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Add.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Student\Remove.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorTargetAssemblyInfo.cache
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.RazorTargetAssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.Views.pdb
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.csproj.CopyComplete
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\ref\TiepNhanThamSo.dll
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.pdb
+D:\Workspace\C#\CNTT 14-05\Lession03\TiepNhanThamSo\obj\Debug\net5.0\TiepNhanThamSo.genruntimeconfig.cache

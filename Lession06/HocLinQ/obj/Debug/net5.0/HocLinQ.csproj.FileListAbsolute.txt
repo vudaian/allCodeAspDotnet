@@ -1,0 +1,32 @@
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.exe
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.deps.json
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.json
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.dev.json
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.dll
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\ref\HocLinQ.dll
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.pdb
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.AssemblyReference.cache
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfoInputs.cache
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfo.cs
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.dll
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\ref\HocLinQ.dll
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.pdb
+C:\Users\Vu Dai An\source\repos\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.genruntimeconfig.cache
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.exe
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.dll
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\ref\HocLinQ.dll
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\bin\Debug\net5.0\HocLinQ.pdb
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.AssemblyReference.cache
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.dll
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\ref\HocLinQ.dll
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.pdb
+D:\Workspace\C#\CNTT 14-05\Lession06\HocLinQ\obj\Debug\net5.0\HocLinQ.genruntimeconfig.cache

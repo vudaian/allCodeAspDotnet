@@ -1,0 +1,69 @@
+﻿@model HocRazorHelper.Models.SinhVien
+@{
+    ViewData["Title"] = "Create";
+}
+
+@*<div class="container col-md-6">
+    <h3>Thêm mới sinh viên</h3>
+    <form action="/Home/Save" method="post">
+        <div class="form-group">
+            <label>Mã sinh viên</label>
+            <input type="text" name="masv" value="" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label>Họ tên</label>
+            <input type="text" name="hoten" value="" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label>Địa chỉ</label>
+            <input type="text" name="diachi" value="" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <input type="submit"class="btn btn-success" value="Thêm"/>
+        </div>
+    </form>
+</div>*@
+
+@*<div class="container col-md-6">
+    <h3>Thêm mới sinh viên</h3>
+    @{ Html.BeginForm("Save", "Home");}
+        <div class="form-group">
+            @Html.Label("masv", "Mã sinh viên")
+            @Html.TextBox("masv", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.Label("hoten", "Họ Tên")
+            @Html.TextBox("hoten", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.Label("diachi", "Địa chỉ")
+            @Html.TextBox("diachi", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-outline-info" value="Thêm" />
+        </div>
+    @{ Html.EndForm();}
+
+</div>*@
+
+<div class="container col-md-6">
+    <h3>Them moi sinh vien</h3>
+    @using (Html.BeginForm("Save", "Student"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(x => x.MaSV, "Ma sinh vien")
+            @Html.TextBoxFor(x => x.MaSV, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.HoTen, "Ho ten")
+            @Html.TextBoxFor(x => x.HoTen, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.DiaChi, "Dia chi")
+            @Html.TextBoxFor(x => x.DiaChi, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-outline-info" value="Thêm" />
+        </div>
+    }
+</div>

@@ -1,0 +1,27 @@
+﻿
+@model List<TiepNhanThamSo.Models.Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sach sinh vien</h1>
+
+<a href="/Student/Add" class="btn btn-primary text-white mb-3">Thêm mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <th>MaSv</th>
+        <th>HoTen</th>
+        <th>DiaChi</th>
+        </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.StudentId</td>    
+                <td>@item.FullName</td>
+                <td>@item.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>

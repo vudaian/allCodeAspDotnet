@@ -1,0 +1,14 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\bin\Debug\netcoreapp3.1\KieuLacDanh.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.genruntimeconfig.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\KieuLacDanh\obj\Debug\netcoreapp3.1\KieuLacDanh.csproj.AssemblyReference.cache

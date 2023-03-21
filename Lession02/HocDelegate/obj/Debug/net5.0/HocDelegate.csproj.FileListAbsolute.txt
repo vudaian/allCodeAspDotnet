@@ -1,0 +1,16 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\ref\HocDelegate.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\bin\Debug\net5.0\HocDelegate.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.csproj.AssemblyReference.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\ref\HocDelegate.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\HocDelegate\obj\Debug\net5.0\HocDelegate.genruntimeconfig.cache

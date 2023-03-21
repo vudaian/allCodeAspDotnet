@@ -1,0 +1,29 @@
+﻿@model List<VuDaiAn_DeSo1.Models.Employee>
+@{
+    ViewData["Title"] = "Show";
+}
+
+<div>
+    <a href="/Employee/Add" class="btn btn-link">Thêm mới</a>
+    <table class="table">
+        <thead>
+            <th>Employee ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>BirthDay</th>
+            <th>Gender</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.EmployeId</td>
+                    <td>@item.FirttName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.BirthDay</td>
+                    <td>@item.Gender</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

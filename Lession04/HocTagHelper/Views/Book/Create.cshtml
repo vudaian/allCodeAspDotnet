@@ -1,0 +1,14 @@
+﻿@model HocTagHelper.Models.Book
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+    <h3>Them moi sach</h3>
+    <form asp-action="Save" asp-controller="Book" method="post">
+        <div class="form-group">
+            <label asp-for="BookID">Ma sach</label>
+            <input asp-for="BookID" class="form-control"/>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,125 @@
+﻿@model HocRazor.Models.Student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    //Code
+    var hello = "Hello world";
+    var date = DateTime.Now;
+
+}
+<h2>Xin chào: @hello</h2>
+<h2>Time: @date</h2>
+
+<!--Cấu trúc rẽ nhánh if...else-->
+
+@{
+    var nam = 2024;
+}
+@if ((nam % 4 == 0 && nam % 100 != 0) || (nam % 400 == 0))
+{
+    <p>@nam là năm nhuận </p>
+}
+else
+{
+    <p>@nam không phải là năm nhuận </p>
+}
+
+<!--Cấu trúc lựa chọn switch case-->
+
+@{
+    var month = DateTime.Now.Month;
+}
+
+@switch (month)
+{
+    case 1:
+        <p>Tháng 1</p>
+        break;
+    case 2:
+        <p>Tháng 2</p>
+        break;
+    case 3:
+        <p>Tháng 3</p>
+        break;
+    case 4:
+        <p>Tháng 4</p>
+        break;
+    case 5:
+        <p>Tháng 5</p>
+        break;
+    case 6:
+        <p>Tháng 6</p>
+        break;
+    case 7:
+        <p>Tháng 7</p>
+        break;
+    case 8:
+        <p>Tháng 8</p>
+        break;
+    case 9:
+        <p>Tháng 9</p>
+        break;
+    case 10:
+        <p>Tháng 10</p>
+        break;
+    case 11:
+        <p>Tháng 11</p>
+        break;
+    case 12:
+        <p>Tháng 12</p>
+        break;
+}
+
+<!--Cấu trúc lặp for-->
+@{
+    var hoa = new List<String>()
+    {
+        "Hồng", "Mai", "Nhài"
+    };
+    var j = 0;
+}
+@for (int i = 0; i < hoa.Count; i++)
+{
+    <p>Hoa @hoa[i]</p>
+}
+
+<h4>Các loài hoa</h4>
+<!--Cấu trúc while-->
+@while (j < hoa.Count)
+{
+    <p>Hoa @hoa[j]</p>  
+    j++;
+}
+
+<!--Cấu trúc foreach-->
+@{ 
+        var student = new List<Student>() 
+        {
+            new Student() {StudentId = "100", StudentName = "Vu Dai An", Address = "Thai Binh"},
+            new Student() {StudentId = "101", StudentName = "Nguyen Van A", Address = "Ha Noi" },
+            new Student() {StudentId = "102", StudentName = "Tran Van B", Address = "Hoa Binh" },
+            new Student() {StudentId = "103", StudentName = "Pham Van C", Address = "Quang Ninh" },
+        };
+}
+
+<table class="table table-dark table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Ma sinh vien</th>
+            <th>Ho ten</th>
+            <th>Dia chi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in student)
+        {
+            <tr>
+                <td>@a.StudentId</td>
+                <td>@a.StudentName</td>
+                <td>@a.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>

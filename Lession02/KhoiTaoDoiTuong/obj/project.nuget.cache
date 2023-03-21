@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2ucH77cAMUgN7l5hKD3vxqFxKRVakElBbo+FJGusSiJmpMlABSqJEf4kwC9QiU/aj4/2oBW8JeXpKIDQ7tFFA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\C#\\CNTT 14-05\\Lession02\\KhoiTaoDoiTuong\\KhoiTaoDoiTuong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vu Dai An\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Vu Dai An\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vu Dai An\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vu Dai An\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

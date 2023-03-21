@@ -1,0 +1,21 @@
+﻿@model DatabaseFirst.Models.PhongBan
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container col-md-6">
+    <h1>Thêm phòng ban</h1>
+    <form action="/PhongBan/Create" method="post">
+        <div class="form-group">
+            <label asp-for="MaPhong"></label>
+            <input asp-for="MaPhong" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="TenPhong"></label>
+            <input asp-for="TenPhong" class="form-control" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="add" value="Thêm" class="btn btn-outline-info"/>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,10 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h1>Profile</h1>
+<p>Ten tai khoan: @Context.Session.GetString("UserName")</p>
+<p>Ho ten : @Context.Session.GetString("FullName")</p>
+<p>Email: @Context.Session.GetString("Email")</p>
+

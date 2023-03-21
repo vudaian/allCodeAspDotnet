@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "GetData";
+    var songs = ViewBag.songs;
+    var songs2 = ViewData["songs"] as List<string>;
+}
+
+
+<p class="alert alert-danger">
+    Dữ liệu nhận từ ViewBag: @ViewBag.message1
+</p>
+
+<p class="alert alert-danger">
+    Dữ liệu nhận từ ViewData: @ViewData["message2"]
+</p>
+
+<h3>Danh sách các bài hát</h3>
+@foreach (var item in songs)
+{
+    <p>@item</p>
+}
+
+<h3>Danh sách các bài hát 2</h3>
+@foreach (var item in songs2)
+{
+    <p>@item</p>
+}
+
+<p class="alert-info">TempData: @TempData["message3"]</p>

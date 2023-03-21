@@ -1,0 +1,31 @@
+﻿@model List<VuDaiAn_1405.Models.SinhVien>
+@{
+    ViewData["Title"] = "ShowStudent";
+}
+
+<div>
+    <h3>Danh sách sinh viên</h3>
+    <a href="/SinhVien/AddStudent" class="btn btn-success">Thêm mới</a>
+    <table class="table table-bordered">
+        <thead>
+            <th>Mã sinh viên</th>
+            <th>Họ tên</th>
+            <th>Tên lớp</th>
+            <th>Địa chỉ</th>
+            <th>Số điện thoại</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td>@item.ClassName</td>
+                    <td>@item.Address</td>
+                    <td>@item.NumBerPhone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

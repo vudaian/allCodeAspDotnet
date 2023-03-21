@@ -1,0 +1,28 @@
+﻿@model List<DatabaseFirst.Models.PhongBan>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Danh sách phòng ban</h2>
+<a href="/PhongBan/Create" class="btn btn-outline-info">Thêm mới</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã phòng ban</th>
+            <th>Tên phòng ban</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.MaPhong</td>
+            <td>@item.TenPhong</td>
+            <td>
+                <a href="/PhongBan/Edit/@item.MaPhong">Sửa</a>
+                <a asp-action="Delete" asp-controller="PhongBan" asp-route-id="@item.MaPhong">Xóa</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

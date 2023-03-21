@@ -1,0 +1,25 @@
+﻿@model List<DataSharing.Models.Customer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Danh sách khách hàng</h3>
+<table class="table">
+    <thead class="">
+        <tr>
+            <th>Mã khách hàng</th>
+            <th>Họ tên</th>
+            <th>Điện thoại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.CustomerName</td>
+            <td>@item.Phone</td>
+        </tr>
+        }
+    </tbody>
+</table>

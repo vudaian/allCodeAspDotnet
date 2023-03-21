@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!--Thẻ tạo liên kết-->
+<a href="/Home/Privacy" class="btn btn-outline-info">Submit</a>
+
+<!--Sử dụng Html helper-->
+@Html.ActionLink("Submit", "Privacy", "Home", null, new { @class = "btn btn-success" })

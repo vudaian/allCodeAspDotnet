@@ -1,0 +1,16 @@
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.exe
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.deps.json
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.runtimeconfig.json
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.runtimeconfig.dev.json
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ref\ClassGeneric.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\bin\Debug\net5.0\ClassGeneric.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.csproj.AssemblyReference.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.AssemblyInfoInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.AssemblyInfo.cs
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ref\ClassGeneric.dll
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.pdb
+D:\Workspace\C#\CNTT 14-05\Lession02\ClassGeneric\obj\Debug\net5.0\ClassGeneric.genruntimeconfig.cache
